@@ -1,4 +1,5 @@
-releases:https://github.com/Smi1eH/Smi1e_Red_Tools/releases/tag/v1.0.0
+下载地址:https://github.com/Smi1eH/Smi1e_Red_Tools/releases/tag/v1.0.0
+
 **<font style="color:rgb(217, 33, 66);background-color:rgb(254, 254, 254);">免责声明</font>**
 
 **<font style="background-color:rgb(254, 254, 254);">由于传播、利用本公众号深玄安全所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，公众号深玄安全及作者不为此承担任何责任，一旦造成后果请自行承担！如有侵权烦请告知，我们会立即删除并致歉，谢谢！</font>**
